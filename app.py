@@ -72,7 +72,7 @@ st.subheader("Experience & Qualifications")
 st.write(
     """
     - ✔️6 years experience with IT as a whole 
-    - ✔️CompTIA Security+ CE (August 2020 to August 2023)
+    - ✔️CompTIA Security+ CE (August 2023 to August 2026)
     - ✔️Top Secret Clearance TS/SCI (CI polygraph)
     - ✔️Warwick High School - Newport News, VA 2018
     """
