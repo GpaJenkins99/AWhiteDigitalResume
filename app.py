@@ -6,8 +6,8 @@ from PIL import Image
 # ----- PATH SETTING -----#
 current_dir = Path(__file__).parent if "_file_" in locals() else Path.cwd()
 css_file = current_dir / "styles" / "main.css"
-resume_file_PDF = current_dir / "assets" / "AWhiteJr Resume PDF.pdf"
-resume_file_WD = current_dir / "assets" / "AWhiteJr Resume WORD.docx"
+resume_file_PDF = current_dir / "assets" / "AWhiteJr resume PDF.docx.pdf"
+resume_file_WD = current_dir / "assets" / "AWhiteJr AWhiteJr resume WRD.docx"
 profile_pic = current_dir / "assets" / "profile-pic.png"
 
 # ----- GENERAL SETTINGS -----
@@ -83,11 +83,11 @@ st.write("#")
 st.subheader("Hard Skills")
 st.write(
     """
-     - Windows Server 2012/2016,- TCP/IP, - WAN,    - Java,                    - System Administration
-     - Microsoft Office 365,    - DNS,    - VoIP,   - django,                  - Network Support 
-     - Cisco Router CLI,        - LAN,    - SCCM,   - Remote Access Software , - Vsphear
-     - Adobe Creative Suite,    - VPN,    - WSUS,   - Microsoft Exchange,      - VCS
-     - Active Directory,        - DHCP,   - Python, - PowerShell,              - Vrealize
+     - Windows Server 2012/2016,- TCP/IP, - WAN,    - Java,                    - System Administration  - Nessus
+     - Microsoft Office 365,    - DNS,    - VoIP,   - django,                  - Network Support        - Vcenter
+     - Cisco Router CLI,        - LAN,    - SCCM,   - Remote Access Software , - Vsphear                - Splunk
+     - Adobe Creative Suite,    - VPN,    - WSUS,   - Microsoft Exchange,      - VCS                    - Service Now
+     - Active Directory,        - DHCP,   - Python, - PowerShell,              - Vrealize               - Flexeara 
     """
 )
 
@@ -95,6 +95,31 @@ st.write(
 st.write("#")
 st.subheader("Work History")
 st.write("---")
+
+# ----- JOB 1 -----
+st.write("🚧", "**Lead Systems Engineer/ Architect ODNI | Cognito Cyber Group**")
+st.write("September 2023 to present")
+st.write("Tysons McLean VA")
+st.write(
+    """
+   - ► stablished and managed production, testing, and development domains, ensuring seamless operations.
+   - ► Implemented SCCM and orchestrated system updates to enhance performance and security.
+   - ► Managed Secure Internet Protocol Router (SIPR) accounts through active directory administration.
+   - ► Scheduled essential maintenance periods to minimize operational disruptions.
+   - ► OCollaborated with cross-functional teams to define, document, and align system requirements with business objectives.
+   - ► Possess extensive experience in Microsoft Systems Engineering, specializing in Windows platform operating systems (Windows 10 and Server 2016-2019).
+   - ► Proficient in Windows Active Directory suite, including DNS, DFS, ADCS, and GPOs.
+   - ► Demonstrated expertise in virtualization products such as VMware vSphere, ESXi, and vRealize Operations.
+   - ► Skilled in scripting languages, particularly PowerShell, for automation and task optimization.
+   - ► Developed Python scripts to streamline task sequences, enhancing operational efficiency.
+   - ► Designed and executed innovative network solutions, optimizing existing networks to meet organizational objectives.
+   - ► Provided robust support for network equipment, including routers, proxy servers, switches, WAN accelerators, DNS, and DHCP servers.
+   - ► Managed, configured, and operated Linux servers, integrating them for maintenance testing.
+   - ► Responsible for hands-on installation, administration, and patching of RHEL/CentOS and UNIX operating systems.
+   - ► Installed and maintained server infrastructure device operating system software, ensuring seamless functionality across platforms. both Windows and Linux
+   - ► Conducted comprehensive scans of computer networks and Domains, diagnosing connectivity issues and addressing network vulnerabilities to uphold security standards.
+    """
+)
 
 # ----- JOB 1 -----
 st.write("🚧", "**Systems Engineer MSTP | Obsidian Solutions Group**")
