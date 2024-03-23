@@ -71,10 +71,8 @@ st.write("#")
 st.subheader("Experience & Qualifications")
 st.write(
     """
-    - ✔️6 years experience with IT as a whole 
     - ✔️CompTIA Security+ CE (August 2023 to August 2026)
-    - ✔️Top Secret Clearance TS/SCI (CI polygraph)
-    - ✔️Warwick High School - Newport News, VA 2018
+    - ✔️Top Secret Clearance TS/SCI (CI polygraph) 
     """
 )
 
@@ -123,7 +121,7 @@ st.write(
 
 # ----- JOB 1 -----
 st.write("🚧", "**Systems Engineer MSTP | Obsidian Solutions Group**")
-st.write("December 2022 to present")
+st.write("December 2022 to october 2023")
 st.write("Quantico VA")
 st.write(
     """
