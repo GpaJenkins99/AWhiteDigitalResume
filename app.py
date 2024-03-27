@@ -71,7 +71,7 @@ st.write("#")
 st.subheader("Experience & Qualifications")
 st.write(
     """
-    - ✔️CompTIA Security+ CE (August 2023 to August 2026)
+    - ✔️CompTIA Security+ CE (August 2021 to August 2026)
     - ✔️Top Secret Clearance TS/SCI (CI polygraph) 
     """
 )
@@ -81,7 +81,7 @@ st.write("#")
 st.subheader("Hard Skills")
 st.write(
     """
-     - Windows Server 2012/2016,- TCP/IP, - WAN,    - Java,                    - System Administration  - Nessus
+     - Windows Server 2012/2016/2019,- TCP/IP, - WAN,    - Java,                    - System Administration  - Nessus
      - Microsoft Office 365,    - DNS,    - VoIP,   - django,                  - Network Support        - Vcenter
      - Cisco Router CLI,        - LAN,    - SCCM,   - Remote Access Software , - Vsphear                - Splunk
      - Adobe Creative Suite,    - VPN,    - WSUS,   - Microsoft Exchange,      - VCS                    - Service Now
