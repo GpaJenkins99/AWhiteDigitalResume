@@ -83,7 +83,7 @@ st.write(
     """
      - Windows Server 2012-2022,- TCP/IP, - WAN,    - Java,                    - System Administration  - Nessus
      - Microsoft Office 365,    - DNS,    - VoIP,   - django,                  - Network Support        - Vcenter
-     - AWS,                     - LAN,    - SCCM,   - Remote Access Software , - Vsphear                - Splunk
+     - AWS,                     - LAN,    - SCCM,   - Remote Access Software,  - Vsphear                - Splunk
      - Adobe Creative Suite,    - VPN,    - WSUS,   - Microsoft Exchange,      - VCS                    - Service Now
      - Active Directory,        - DHCP,   - Python, - PowerShell,              - Vrealize               - Flexeara 
     """
@@ -100,7 +100,7 @@ st.write("September 2023 to present")
 st.write("Tysons McLean VA")
 st.write(
     """
-    (new contract leaving Innovative Reasoning)
+    (new contract leaving Cognito Cyber Group)
    - ► stablished and managed production, testing, and development domains, ensuring seamless operations.
    - ► Implemented SCCM and orchestrated system updates to enhance performance and security.
    - ► Managed Secure Internet Protocol Router (SIPR) accounts through active directory administration.
