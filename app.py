@@ -96,7 +96,7 @@ st.write("---")
 
 # ----- JOB 1 -----
 st.write("🚧", "**Lead Systems Engineer/ Architect ODNI | CACI**")
-st.write("September 2023 to present")
+st.write("May 2024 to present")
 st.write("Tysons McLean VA")
 st.write(
     """
@@ -124,7 +124,7 @@ st.write(
 
 # ----- JOB 1 -----
 st.write("🚧", "**Lead Systems Engineer/ Architect ODNI | Cognito Cyber Group**")
-st.write("September 2023 to present")
+st.write("September 2023 to May 2024")
 st.write("Tysons McLean VA")
 st.write(
     """
@@ -252,7 +252,7 @@ st.write(
 
 # ----- JOB 5 -----
 st.write("🚧", "**Information Technology Specialist 5-159th HHC GSAB | U.S. Army Reserve.**")
-st.write("December 2017 to Present")
+st.write("December 2017 to December 2023")
 st.write("Fort Eustis, VA")
 st.write(
     """
