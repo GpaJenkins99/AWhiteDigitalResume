@@ -6,8 +6,8 @@ from PIL import Image
 # ----- PATH SETTING -----#
 current_dir = Path(__file__).parent if "_file_" in locals() else Path.cwd()
 css_file = current_dir / "styles" / "main.css"
-resume_file_PDF = current_dir / "assets" / "AWhiteJr resume PDF.docx (2).pdf"
-resume_file_WD = current_dir / "assets" / "AWhiteJr AWhiteJr resume WRD (2).docx"
+resume_file_PDF = current_dir / "assets" / "AWhiteJr resume 2026.docx.pdf"
+resume_file_WD = current_dir / "assets" / "AWhiteJr AWhiteJr resume 2026.docx"
 profile_pic = current_dir / "assets" / "profile-pic.png"
 
 # ----- GENERAL SETTINGS -----
@@ -298,4 +298,5 @@ st.write("---")
 for project, link in PROJECTS.items():
     st.write(f"[{project}]({link})")
     
+
 
