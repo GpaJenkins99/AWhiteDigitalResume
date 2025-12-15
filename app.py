@@ -95,8 +95,32 @@ st.subheader("Work History")
 st.write("---")
 
 # ----- JOB 1 -----
+st.write("🚧", "**Systems Engineer lvl III WHS | Akima Data Management**")
+st.write("June 2025 to present")
+st.write("Pentagon")
+st.write(
+    """
+   - ► Mentor junior engineers and administrators on secure Windows operations in classified environments
+   - ► Produce and maintain technical documentation, SOPs, diagrams, and recovery procedures appropriate for classified systems
+   - ► Communicate system status, risks, and recommendations clearly to leadership while adhering to classification guidelines
+   - ► Maintain high availability and mission-critical uptime for classified systems supporting operational requirements
+   - ► Design and test backup, recovery, and disaster recovery solutions compliant with classified data handling policies
+   - ► Conduct capacity planning and lifecycle management for Windows servers and supporting infrastructure
+   - ► Execute change management in controlled environments with strict documentation and approval process
+   - ► Implement and manage account access controls, privileged access, and least-privilege models in classified environments
+   - ► Skilled in scripting languages, particularly PowerShell, for automation and task optimization.
+   - ► Developed Python scripts to streamline task sequences, enhancing operational efficiency.
+   - ► Perform patch management and vulnerability remediation using approved tools and processes in air-gapped or restricted networks
+   - ► Support security audits, inspections, and accreditation activities (RMF, ATO support, POA&M remediation)
+   - ► Monitor systems for security events and anomalies, coordinating with cybersecurity teams as required
+   - ► Serve as senior engineer responsible for design, deployment, and sustainment of Windows-based systems within a SECRET-classified environment
+   - ► Engineer and maintain secure Windows Server infrastructure (Active Directory, Group Policy, DNS, DHCP, PKI) in accordance with DoD and organizational security requirements
+    """
+)
+
+# ----- JOB 1 -----
 st.write("🚧", "**Lead Systems Engineer/ Architect ODNI | CACI**")
-st.write("May 2024 to present")
+st.write("May 2024 to Febuary2025 ")
 st.write("Tysons McLean VA")
 st.write(
     """
@@ -123,7 +147,7 @@ st.write(
 )
 
 # ----- JOB 1 -----
-st.write("🚧", "**Lead Systems Engineer/ Architect ODNI | Cognito Cyber Group**")
+st.write("🚧", "**Lead Systems Engineer/ Architect ODNI | Cognito Cyber group**")
 st.write("September 2023 to May 2024")
 st.write("Tysons McLean VA")
 st.write(
@@ -146,6 +170,7 @@ st.write(
    - ► Conducted comprehensive scans of computer networks and Domains, diagnosing connectivity issues and addressing network vulnerabilities to uphold security standards.
     """
 )
+
 # ----- JOB 1 -----
 st.write("🚧", "**Systems Engineer MSTP | Obsidian Solutions Group**")
 st.write("December 2022 to october 2023")
@@ -273,3 +298,4 @@ st.write("---")
 for project, link in PROJECTS.items():
     st.write(f"[{project}]({link})")
     
+
