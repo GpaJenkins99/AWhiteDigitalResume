@@ -15,7 +15,7 @@ PAGE_TITLE = "Digital Resume | Adrian White Jr"
 PAGE_ICON = ":⛩:"
 NAME = "Adrian White Jr"
 DESCRIPTION = """
-US Army Soldier | Painter| Model | Aspiring software engineer 
+US Army Soldier | Painter | Model | Aspiring software engineer 
 """
 EMAIL = "adrianawhitejr@gmail.com"
 SOCIAL_MEDIA = {
@@ -298,6 +298,7 @@ st.write("---")
 for project, link in PROJECTS.items():
     st.write(f"[{project}]({link})")
     
+
 
 
 
